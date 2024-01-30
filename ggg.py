@@ -1,1 +1,2 @@
 print('lupa')
+a = 'lupa'
