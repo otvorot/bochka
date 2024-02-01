@@ -1,2 +1,0 @@
-print('lupa')
-a = 'lupa'
