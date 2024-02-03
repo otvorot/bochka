@@ -17,7 +17,6 @@ def random_predict(number: int = 1) -> int:
     """
     
     count = 0 # счётчик
-    number = np.random.randint(1, 101) # загаданное число
     top = 101 # верхняя граница
     bot = 1 # нижняя граница
     
